@@ -1,0 +1,4 @@
+trigger_field: subscribe
+trigger_value: yes
+email_field: email
+name_field: name
