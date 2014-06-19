@@ -1,6 +1,4 @@
-# Campaign Monitor
-## An extension for Raven
-
+# Campaign Monitor for Raven
 This add-on will allow you to add subscribers to your Campaign Monitor list when using a Raven form.
 
 ## Usage
