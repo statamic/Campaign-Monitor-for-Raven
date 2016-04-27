@@ -1,4 +1,4 @@
-# Campaign Monitor for Raven
+# Campaign Monitor for Raven ![Statamic v1](https://img.shields.io/badge/statamic-v1-lightgrey.svg?style=flat-square)
 This add-on will allow you to add subscribers to your Campaign Monitor list when using a Raven form.
 
 ## Usage
